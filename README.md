@@ -72,8 +72,9 @@ I am looking for an opportunity to start my career as a Software Developer where
 
 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn profile link here
-📧 Email: Add your professional email here
+💼 LinkedIn:https://www.linkedin.com/in/mayur                i-auji-b820b7387
+
+📧 Email: aujimayuri@gmail.com
 
 ---
 
