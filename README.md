@@ -85,4 +85,8 @@ https://www.linkedin.com/in/mayuri-auji-b820b7387
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aujimayuri&layout=compact)
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=aujimayuri)
+
 ⭐ Thanks for visiting my GitHub profile!
