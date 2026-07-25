@@ -1,16 +1,80 @@
-## Hi there 👋
+Hi, I'm Mayuri Auji 👋
 
-<!--
-**aujimayuri/aujimayuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science & Engineering
+💻 Aspiring Java Full Stack Developer
+🌱 Currently learning Core Java, SQL, Web Technologies, and Full Stack Development
+🚀 Interested in Software Development and building real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Technical Skills
+
+Programming Languages:
+Java, SQL
+
+Web Technologies:
+HTML, CSS, JavaScript
+
+Backend:
+Node.js, Express.js
+
+Database:
+SQL 
+
+Tools & Platforms:
+Eclipse, Visual Studio Code, GitHub
+
+Core Concepts:
+Object-Oriented Programming (OOP), DBMS, Basic Data Structures
+
+---
+
+🚀 Featured Project
+
+PlaceMe – Campus Placement Management System
+
+PlaceMe is a web-based campus placement management system designed to connect students, recruiters, and administrators.
+
+Key Features:
+
+- Student Registration and Login
+- Job Search and Application
+- Resume Upload
+- Recruiter Dashboard
+- Job Posting
+- Applicant Management
+- Interview Scheduling
+- Offer Management
+
+Technologies Used:
+HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+
+---
+
+📚 Currently Learning
+
+- Core Java
+- Object-Oriented Programming
+- SQL
+- Web Development
+- Full Stack Java Development
+- Data Structures
+
+---
+
+🎯 Career Goal
+
+I am looking for an opportunity to start my career as a Software Developer where I can apply my programming skills, learn new technologies, and contribute to real-world projects.
+
+---
+
+📫 Connect With Me
+
+💼 LinkedIn: Add your LinkedIn profile link here
+📧 Email: Add your professional email here
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
