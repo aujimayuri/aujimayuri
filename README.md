@@ -79,4 +79,10 @@ https://www.linkedin.com/in/mayuri-auji-b820b7387
 
 ---
 
+## 📊 GitHub Stats
+
+![Mayuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aujimayuri&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aujimayuri&layout=compact)
+
 ⭐ Thanks for visiting my GitHub profile!
